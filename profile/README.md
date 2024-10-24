@@ -1,2 +1,2 @@
-## Be Penguinly!
+# Penguinly!
 
